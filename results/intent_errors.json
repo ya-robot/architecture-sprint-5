@@ -1,0 +1,122 @@
+[
+  {
+    "text": "Привет",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "ask_architecture",
+      "confidence": 0.23492500185966492
+    }
+  },
+  {
+    "text": "Добрый день",
+    "intent": "greet",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2401924729347229
+    }
+  },
+  {
+    "text": "До свидания",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2665536403656006
+    }
+  },
+  {
+    "text": "Пока",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.27677297592163086
+    }
+  },
+  {
+    "text": "Увидимся",
+    "intent": "goodbye",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.30777788162231445
+    }
+  },
+  {
+    "text": "Расскажите об архитектуре ПО",
+    "intent": "ask_architecture",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.27201375365257263
+    }
+  },
+  {
+    "text": "Какие подходы существуют в архитектуре?",
+    "intent": "ask_architecture",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3733116090297699
+    }
+  },
+  {
+    "text": "Что такое микросервисная архитектура?",
+    "intent": "ask_architecture",
+    "intent_prediction": {
+      "name": "greet",
+      "confidence": 0.4072296619415283
+    }
+  },
+  {
+    "text": "Как выбрать архитектуру ПО?",
+    "intent": "ask_architecture",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.26114708185195923
+    }
+  },
+  {
+    "text": "Да",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2432151436805725
+    }
+  },
+  {
+    "text": "Верно",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2629351317882538
+    }
+  },
+  {
+    "text": "Именно",
+    "intent": "affirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.25908634066581726
+    }
+  },
+  {
+    "text": "Расскажите больше об этом",
+    "intent": "request_info",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.2645476460456848
+    }
+  },
+  {
+    "text": "Можете уточнить?",
+    "intent": "request_info",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.27658089995384216
+    }
+  },
+  {
+    "text": "Какие есть детали?",
+    "intent": "request_info",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.3510580062866211
+    }
+  }
+]
